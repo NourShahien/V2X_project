@@ -1,0 +1,5 @@
+../Core/Src/App_Tasks.c:47:6:TASK_GPS	4
+../Core/Src/App_Tasks.c:84:6:Task_ControlCar	6
+../Core/Src/App_Tasks.c:118:6:Task_SendEspPeriodic	2
+../Core/Src/App_Tasks.c:145:6:Task_SendEsp_Status	3
+../Core/Src/App_Tasks.c:177:6:Task_Recieve_Status_Esp	4

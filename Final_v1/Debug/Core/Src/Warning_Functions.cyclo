@@ -1,0 +1,3 @@
+../Core/Src/Warning_Functions.c:19:6:Hard_Brake_Warning	1
+../Core/Src/Warning_Functions.c:31:6:Traffic_Condition_Warning	1
+../Core/Src/Warning_Functions.c:47:13:LCD_Print_WarningSign	1

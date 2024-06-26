@@ -1,0 +1,8 @@
+../Core/Src/LCD_I2C.c:16:6:LCD_voidInit	1
+../Core/Src/LCD_I2C.c:41:6:LCD_voidSendCommand	1
+../Core/Src/LCD_I2C.c:83:6:LCD_voidSendCharachter	1
+../Core/Src/LCD_I2C.c:98:6:LCD_voidSendString	2
+../Core/Src/LCD_I2C.c:109:6:LCD_voidSetPositionXY	5
+../Core/Src/LCD_I2C.c:132:6:LCD_voidClearDisplay	1
+../Core/Src/LCD_I2C.c:138:6:LCD_voidWriteNum	4
+../Core/Src/LCD_I2C.c:157:6:LCD_voidDrawSpecialCharachter	2

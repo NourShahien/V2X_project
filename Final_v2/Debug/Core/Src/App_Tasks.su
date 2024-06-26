@@ -1,0 +1,4 @@
+../Core/Src/App_Tasks.c:49:6:TASK_GPS	24	static
+../Core/Src/App_Tasks.c:86:6:Task_ControlCar	16	static
+../Core/Src/App_Tasks.c:119:6:Task_SendEspPeriodic	24	static
+../Core/Src/App_Tasks.c:176:6:Task_Recieve_Status_Esp	40	static
